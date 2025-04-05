@@ -70,3 +70,5 @@ Launching test:
 for following change:
 
 > npm run test:watch
+
+  Coverage for units tests: front\coverage/index.html
